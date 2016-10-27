@@ -1,0 +1,16 @@
+{
+    "author": "Benjamin Koeck | Veylon",
+    "version": "1.0",
+    "compatible": 1,
+    "url": "http:\/\/www.veylon.com.pa\/",
+    "git": "https:\/\/github.com\/croostmx\/VeylonSkin_4.1.git",
+    "icons": [
+        "Bird",
+        "Flag",
+        "Globe",
+        "Heart",
+        "Marker",
+        "Shield",
+        "Star"
+    ]
+}
